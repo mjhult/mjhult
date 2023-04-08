@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mathew Hultquist</h1>
+
 - 🔭 I’m currently working on [Codename Hermes](https://github.com/oslabs-beta/Codename-Hermes/)
 
 - 🌱 I’m currently learning **Kafka, WebAssembly**

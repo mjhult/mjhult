@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Codename Hermes](https://github.com/oslabs-beta/Codename-Hermes/)
 
-- 🌱 I’m currently learning **Kafka, WebAssembly, Blazor, Rust**
+- 🌱 I’m currently learning **Kafka, RabbitMQ, WebAssembly, Blazor, Rust**
 
 - 📫 How to reach me **mathew@gates.services**
 

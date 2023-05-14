@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **WebAssembly, Rust**
 
-- 📫 How to reach me **mathew@gates.services**
+- 📫 How to reach me **mathew.j.hultqiust@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

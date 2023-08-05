@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mathew Hultquist</h1>
 
-- 🔭 I’m currently working on [Codename Hermes](https://github.com/oslabs-beta/Codename-Hermes/)
+- 🔭 I’m currently working at [CSEngineers](https://www.codesmith.io/))
 
 - 🌱 I’m currently learning **WebAssembly, Rust**
 

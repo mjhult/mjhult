@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working at [Mentra](https://www.mentra.com/)
 
-- 🌱 I’m currently learning **WebAssembly, Rust**
-
 - 📫 How to reach me **mathew@hultquist.dev**
 
 <h3 align="left">Connect with me:</h3>
